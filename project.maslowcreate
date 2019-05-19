@@ -55,6 +55,13 @@
                             "ioValue": 10
                         }
                     ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1870,
+                    "y": 241.5,
+                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -69,6 +76,11 @@
                     "ap2Name": "3D shape 930910",
                     "ap1ID": 351183,
                     "ap2ID": 134598
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 134598
                 }
             ],
             "fileTypeVersion": 1
