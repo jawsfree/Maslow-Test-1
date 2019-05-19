@@ -40,6 +40,19 @@
                     ]
                 },
                 {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 1234,
+                    "y": 170,
+                    "uniqueID": 134598,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 930910",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1870,
