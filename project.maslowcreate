@@ -18,7 +18,7 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 10
+                            "ioValue": 20
                         },
                         {
                             "name": "y length",
@@ -59,8 +59,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1870,
-                    "y": 241.5,
+                    "x": 1630,
+                    "y": 236,
                     "ioValues": []
                 }
             ],
